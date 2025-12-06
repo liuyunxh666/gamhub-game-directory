@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/gamhub-logo.svg" alt="GameHub Logo" width="160">
+  <img src="assets/logo/gamhub-logo.svg" alt="GameHub Logo" width="260">
 </p>
 
 # gamhub-game-directory
