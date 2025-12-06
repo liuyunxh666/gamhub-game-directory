@@ -1,22 +1,22 @@
 # Frequently Asked Questions (FAQ)
 
-This document answers common questions about GameHub and how the platform works for players and game website owners.
+This document answers common questions about GamHub and how the platform works for players and game website owners.
 
 ---
 
-## What is GameHub?
+## What is GamHub?
 
-GameHub is a web-based game discovery platform focused on browser-playable games.  
+GamHub is a web-based game discovery platform focused on browser-playable games.  
 It helps players find games they can play instantly without downloads, installation, or additional software.
 
 More information: https://gamhub.net
 
 ---
 
-## Is GameHub free to use?
+## Is GamHub free to use?
 
 Yes.  
-GameHub is free for users to browse and explore web games.
+GamHub is free for users to browse and explore web games.
 
 Access the platform here: https://gamhub.net
 
@@ -24,23 +24,23 @@ Access the platform here: https://gamhub.net
 
 ## Do I need to create an account to play games?
 
-No account is required to play games listed on GameHub.  
+No account is required to play games listed on GamHub.  
 Users can browse categories, discover games, and start playing directly on the game’s original website.
 
 ---
 
-## Does GameHub host the games?
+## Does GamHub host the games?
 
 No.  
-GameHub does not host game files or game servers.
+GamHub does not host game files or game servers.
 
-GameHub acts as a directory and discovery layer, linking users to publicly available web games hosted by their respective developers or publishers.
+GamHub acts as a directory and discovery layer, linking users to publicly available web games hosted by their respective developers or publishers.
 
 ---
 
-## How much does it cost to publish a game on GameHub?
+## How much does it cost to publish a game on GamHub?
 
-Currently, publishing a game on GameHub is free.  
+Currently, publishing a game on GamHub is free.  
 At a later stage, fees or paid features may be introduced as the platform continues to develop.
 
 ---
@@ -52,7 +52,7 @@ If any paid options are introduced in the future, details will be clearly commun
 
 ---
 
-## Will my game page on GameHub ever expire?
+## Will my game page on GamHub ever expire?
 
 No.  
 Once your game website passes the review process, it will remain permanently active.
@@ -64,12 +64,12 @@ However, a game listing may be removed if:
 
 ---
 
-## Does GameHub have criteria for listing game websites?
+## Does GamHub have criteria for listing game websites?
 
 Yes.  
-To be listed on GameHub, a submission must be a legitimate gaming website intended for public access.
+To be listed on GamHub, a submission must be a legitimate gaming website intended for public access.
 
-GameHub does not accept:
+GamHub does not accept:
 - Political or politically motivated game content
 - Non-gaming or misleading websites
 
@@ -79,7 +79,7 @@ All submissions may be reviewed before being published.
 
 ## What types of game websites can be included?
 
-GameHub supports a wide range of browser-based gaming websites, including:
+GamHub supports a wide range of browser-based gaming websites, including:
 - HTML5 games
 - Instant-play browser games
 - Casual and indie web games
@@ -99,10 +99,10 @@ The availability of paid options depends on the individual game provider.
 
 ---
 
-## Does GameHub collaborate with agencies or partners?
+## Does GamHub collaborate with agencies or partners?
 
 Yes.  
-GameHub collaborates with agencies, game developers, and incubators.
+GamHub collaborates with agencies, game developers, and incubators.
 
 The platform includes an advertiser control system designed to support campaigns across multiple gaming platforms.  
 If you represent an agency or development team, you are welcome to reach out.
@@ -111,21 +111,21 @@ If you represent an agency or development team, you are welcome to reach out.
 
 ## How often is content updated?
 
-GameHub is updated regularly as new games are added or discovered.  
+GamHub is updated regularly as new games are added or discovered.  
 Categories and listings may be adjusted as the platform evolves.
 
 ---
 
-## Is GameHub available worldwide?
+## Is GamHub available worldwide?
 
 Yes.  
-GameHub is accessible globally, subject to regional availability of the original game websites.
+GamHub is accessible globally, subject to regional availability of the original game websites.
 
 ---
 
-## Does GameHub collect user data?
+## Does GamHub collect user data?
 
-GameHub does not require user accounts for browsing or playing games.  
+GamHub does not require user accounts for browsing or playing games.  
 Basic analytics may be used to improve platform performance and user experience.
 
 ---
