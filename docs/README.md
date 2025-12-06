@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo/gamhub-logo.svg" alt="GameHub Logo" width="160">
+  <img src="assets/logo/gamhub-logo.svg" alt="GameHub Logo" width="160">
 </p>
 
 # gamhub-game-directory
@@ -86,7 +86,7 @@ Contribution guidelines may be added in the future.
 
 ## Platform Preview
 
-<img src="docs/assets/preview/homepage-preview.png" alt="GameHub homepage preview">
+<img src="assets/preview/homepage-preview.png" alt="GameHub homepage preview">
 
 ## 📬 Contact & Links
 
