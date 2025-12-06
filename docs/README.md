@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo/gamhub-logo.png" alt="GameHub Logo" width="160">
+</p>
+
 # gamhub-game-directory
 Gamhub is a curated directory of top browser games, featuring one-domain indie titles and major mini-game portals for fast, high-quality online play.
 
@@ -79,6 +83,10 @@ Currently, this repository serves as:
 Contribution guidelines may be added in the future.
 
 ---
+
+## Platform Preview
+
+<img src="docs/assets/preview/homepage-preview.png" alt="GameHub homepage preview">
 
 ## 📬 Contact & Links
 
